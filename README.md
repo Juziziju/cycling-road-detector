@@ -1,6 +1,6 @@
 # Cycling Road Detector
 
-git See [STRUCTURE.md](STRUCTURE.md) for the project plan. Only for internal use, will elimate when submit.
+git See [STRUCTURE.md](STRUCTURE.md) for the project plan. Only for internal communication, will elimate when submit final project.
 
 ## Requirements
 
